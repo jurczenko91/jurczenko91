@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi/Hej/Ahoj/Ghbdt 👋
 
+I'm an engineer with interest in electronics and programming. 
+I do DIY projects making synths, sound modules and effects and repairing some retro equipment, into which I really am.   
 <!--
 **jurczenko91/jurczenko91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
