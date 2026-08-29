@@ -1,4 +1,4 @@
-## Hi/Hej/Ahoj/Ghbdt 👋
+## Hi/Hej/Ahoj/Ghbdtn 👋
 
 I'm an engineer with an interest in electronics and programming.<br> 
 I do DIY projects: making synths, sound modules and effects, and also repairing retro equipment, which I'm really into.   
